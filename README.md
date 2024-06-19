@@ -1,4 +1,4 @@
-# SolenoidMeasureControl UNIT
+# SolenoidStokeMeasureControl UNIT
 
 <img src="https://github.com/akita11/SolenoidStrokeMeasureControlUNIT/blob/main/SolenoidStrokeMeasureControl_UNIT.jpg" width="240px">
 
@@ -6,7 +6,7 @@
 （基板形状が「[M5Stack用VH3.96-4ピンユニット[U020]](https://www.switch-science.com/products/4055)」と同一のため、そのケースを使うことができます。）
 
 **【注意：重要】**
-実際の制御・計測の動作には、ソレノイドごとに特性の計測を行う必要があり、また特性の個体差、温度特性なども考慮する必要があります。そのため、**「これを使ってサンプルプログラムを書き込めば間違いなく動作する」というものではなく、あくまでもこの原理検証の実験のための回路**ということをご理解ください。測定原理やサンプルプログラムは[こちら](https://github.com/akita11/SolenoidStrokeMeasureControl)に適宜まとめて更新していきます。
+実際の制御・計測の動作には、ソレノイドごとに特性の計測を行う必要があり、また特性の個体差、温度特性なども考慮する必要があります。そのため、**「これを使ってサンプルプログラムを書き込めば間違いなく動作する（制御ができる）」というものではなく、あくまでもこの原理検証の実験のための回路**ということをご理解ください。測定原理やサンプルプログラムは[こちら](https://github.com/akita11/SolenoidStrokeMeasureControl)に適宜まとめて更新していきます。
 
 
 ## 使い方
